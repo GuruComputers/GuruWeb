@@ -1,5 +1,5 @@
 <?php
-	include 'constants';
+	include 'constants.php';
 	include INCLUDES_PATH . 'head.php';
 ?>
 
